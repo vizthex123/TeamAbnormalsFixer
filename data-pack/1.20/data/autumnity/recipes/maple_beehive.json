@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wooden_beehive",
+	"pattern": [
+		"PPP",
+		"HHH",
+		"PPP"
+	],
+	"key": {
+		"H": {
+			"item": "minecraft:honeycomb"
+		},
+		"P": {
+			"item": "autumnity:maple_planks"
+		}
+	},
+	"result": {
+		"item": "autumnity:maple_beehive"
+	}
+}

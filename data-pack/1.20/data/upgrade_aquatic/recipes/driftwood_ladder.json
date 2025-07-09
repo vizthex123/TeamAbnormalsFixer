@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wooden_ladder",
+	"pattern": [
+		"S S",
+		"SPS",
+		"S S"
+	],
+	"key": {
+		"P": {
+			"item": "upgrade_aquatic:driftwood_planks"
+		},
+		"S": {
+			"tag": "forge:rods/wooden"
+		}
+	},
+	"result": {
+		"item": "upgrade_aquatic:driftwood_ladder",
+		"count": 4
+	}
+}

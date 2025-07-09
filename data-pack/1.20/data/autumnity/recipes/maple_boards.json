@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wooden_boards",
+	"pattern": [
+		"S",
+		"S"
+	],
+	"key": {
+		"S": {
+			"item": "autumnity:maple_slab"
+		}
+	},
+	"result": {
+		"item": "autumnity:maple_boards"
+	}
+}

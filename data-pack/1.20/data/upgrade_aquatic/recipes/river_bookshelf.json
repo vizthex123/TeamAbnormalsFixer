@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"PPP",
+		"BBB",
+		"PPP"
+	],
+	"key": {
+		"B": {
+			"item": "minecraft:book"
+		},
+		"P": {
+			"item": "upgrade_aquatic:river_planks"
+		}
+	},
+	"result": {
+		"item": "upgrade_aquatic:river_bookshelf"
+	}
+}

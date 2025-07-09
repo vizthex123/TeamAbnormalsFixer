@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"PPP",
+		"SSS",
+		"PPP"
+	],
+	"key": {
+		"P": {
+			"item": "autumnity:maple_planks"
+		},
+		"S": {
+			"item": "autumnity:maple_slab"
+		}
+	},
+	"result": {
+		"item": "autumnity:chiseled_maple_bookshelf"
+	}
+}

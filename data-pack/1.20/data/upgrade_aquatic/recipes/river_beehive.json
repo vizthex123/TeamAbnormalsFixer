@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wooden_beehive",
+	"pattern": [
+		"PPP",
+		"HHH",
+		"PPP"
+	],
+	"key": {
+		"H": {
+			"item": "minecraft:honeycomb"
+		},
+		"P": {
+			"item": "upgrade_aquatic:river_planks"
+		}
+	},
+	"result": {
+		"item": "upgrade_aquatic:river_beehive"
+	}
+}

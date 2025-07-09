@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"pattern": [
+		"PPP",
+		"SSS",
+		"PPP"
+	],
+	"key": {
+		"P": {
+			"item": "upgrade_aquatic:river_planks"
+		},
+		"S": {
+			"item": "upgrade_aquatic:river_slab"
+		}
+	},
+	"result": {
+		"item": "upgrade_aquatic:chiseled_river_bookshelf"
+	}
+}

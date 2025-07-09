@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wooden_chest",
+	"pattern": [
+		"PPP",
+		"P P",
+		"PPP"
+	],
+	"key": {
+		"P": {
+			"item": "upgrade_aquatic:driftwood_planks"
+		}
+	},
+	"result": {
+		"item": "upgrade_aquatic:driftwood_chest"
+	}
+}
