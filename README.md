@@ -5,6 +5,7 @@ Fixes the missing recipes from Team Abnormal's mods. They're meant to be used fo
 So, I decided to fix them myself since they're not interested in doing so.
 
 <br />
+
 ## Links
 
 [Issue tracker](https://github.com/vizthex123/TeamAbnormalsFixer/issues)
