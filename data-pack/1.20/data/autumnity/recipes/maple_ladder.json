@@ -1,4 +1,10 @@
 {
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "autumnity"
+		}
+	],
 	"type": "minecraft:crafting_shaped",
 	"category": "building",
 	"group": "wooden_ladder",

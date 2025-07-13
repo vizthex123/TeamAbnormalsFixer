@@ -1,4 +1,10 @@
 {
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "autumnity"
+		}
+	],
 	"type": "minecraft:crafting_shapeless",
 	"category": "redstone",
 	"group": "wooden_trapped_chest",
