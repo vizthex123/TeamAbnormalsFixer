@@ -1,0 +1,4 @@
+Forge docs for the fancy loading conditions everything uses.
+
+TeamAbnormals for the mods this fixes (still *really* annoying they won't fix it themselves though!)
+- I also hate the lack of documentation their mods have. Very irksome in general when devs do that.
