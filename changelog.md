@@ -1,3 +1,11 @@
+# v1.2
+
+Added log crafting recipes for each chest type (makes 4 chests per craft)
+
+
+<br /> <br />
+
+--------------------------------------------------
 # v1.1.0.1
 
 Added credits file.

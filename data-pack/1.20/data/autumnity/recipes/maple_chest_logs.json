@@ -1,0 +1,25 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "autumnity"
+		}
+	],
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wooden_chest",
+	"pattern": [
+		"LLL",
+		"L L",
+		"LLL"
+	],
+	"key": {
+		"L": {
+			"tag": "autumnity:maple_logs"
+		}
+	},
+	"result": {
+		"item": "autumnity:maple_chest",
+		"count": 4
+	}
+}

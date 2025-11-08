@@ -1,0 +1,25 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "upgrade_aquatic"
+		}
+	],
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"group": "wooden_chest",
+	"pattern": [
+		"LLL",
+		"L L",
+		"LLL"
+	],
+	"key": {
+		"L": {
+			"tag": "upgrade_aquatic:river_logs"
+		}
+	},
+	"result": {
+		"item": "upgrade_aquatic:river_chest",
+		"count": 4
+	}
+}
